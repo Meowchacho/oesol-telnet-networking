@@ -1,6 +1,6 @@
 'use strict';
 
-const Telnet = require('ranvier-telnet');
+const Telnet = require('oesol-telnet');
 const { Logger } = require('ranvier');
 const TelnetStream = require('../lib/TelnetStream');
 
