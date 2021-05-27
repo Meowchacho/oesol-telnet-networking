@@ -2,7 +2,7 @@
 
 const Telnet = require('oesol-telnet');
 const { Logger } = require('ranvier');
-const TelnetStream = require('../lib/TelnetStream');
+const TelnetStream = require('../../lib/TelnetStream');
 
 module.exports = {
   listeners: {
